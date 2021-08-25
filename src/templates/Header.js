@@ -1,5 +1,3 @@
-const exports = require("webpack")
-
 const Header = () => {
     const view = `
         <div class="Header-main">
